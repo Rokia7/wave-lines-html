@@ -1,0 +1,41 @@
+{
+  "intLines": {
+    "max": 50,
+    "min": 0,
+    "tick": 51,
+    "text": "Int Lines",
+    "type": "slider",
+    "value": 22
+  },
+  "backgroundColor": {
+    "text": "Background color",
+    "type": "color",
+    "value": "#0e0e0e"
+  },
+  "startGradientColor": {
+    "text": "Start gradient color",
+    "type": "color",
+    "value": "#9fd446"
+  },
+  "endGradientColor": {
+    "text": "End gradient color",
+    "type": "color",
+    "value": "#00d4ff"
+  },
+  "t": {
+    "max": 20,
+    "min": 1,
+    "tick": 21,
+    "text": "Time",
+    "type": "slider",
+    "value": 5
+  },
+  "speed": {
+    "max": 10,
+    "min": 0.5,
+    "tick": 0.1,
+    "text": "Speed",
+    "type": "slider",
+    "value": 0.5
+  }
+}
